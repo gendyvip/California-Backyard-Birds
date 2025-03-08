@@ -1,0 +1,59 @@
+body {
+  padding: 10px;
+}
+h1 {
+  color: #6bbd1e;
+  text-shadow: -3px 0px 2px brown;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.h-text {
+  text-align: center;
+  color: #6bbd1e;
+}
+p > i > a {
+  color: brown;
+  text-decoration: none;
+  text-transform: ;
+}
+p > i > a:hover {
+  color: rebeccapurple;
+}
+.br-border {
+  border-top: 5px dotted brown;
+}
+
+.bird-t {
+  color: brown;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5px;
+}
+div+p{
+  font-size: 10px;
+  color:#6bbd1e;
+  margin-top: 5px;
+  font-weight: bold;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 5px;
+}
+.bird {
+    width: 30%;
+    height: 300px;
+}
+h2 {
+  color:#6bbd1e;
+  text-align: center;
+  font-style: italic;
+}
+h3 {
+  text-align: center;
+  color: brown;
+}
